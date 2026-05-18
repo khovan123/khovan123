@@ -23,6 +23,12 @@
   </tr>
 </table>
 
+<h2 align="left">
+ <abc>
+  Focus
+ </abc>
+</h2>
+
 <table>
   <tr>
     <td width="45%" valign="top">
@@ -30,10 +36,10 @@
         src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
         alt="Animated header"
         width="100%"
+        height="100%"
       />
     </td>
     <td width="55%" valign="top" align="left">
-      <h3>Focus</h3>
       <p>I build product-minded systems that connect modern web experiences with reliable backend services, AI workflows, and practical infrastructure.</p>
       <ul align="left">
         <li>AI-powered learning, recommendations, RAG, and semantic search</li>
@@ -104,21 +110,39 @@
 
 ## GitHub Snapshot
 
-<div align="center">
-
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=khovan123&show_icons=true&hide_border=true&rank_icon=github&theme=transparent">
-<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khovan123&layout=compact&hide_border=true&theme=transparent">
-
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>Profile</strong><br>
+      <a href="https://github.com/khovan123">@khovan123</a>
+    </td>
+    <td width="33%" align="center">
+      <strong>Main languages</strong><br>
+      TypeScript, JavaScript, Java, Python
+    </td>
+    <td width="33%" align="center">
+      <strong>Work focus</strong><br>
+      AI systems, cloud services, developer tools
+    </td>
+  </tr>
+</table>
 
 ## Featured Work
 
-<div align="center">
-
-[![buddy](https://github-readme-stats.vercel.app/api/pin/?username=khovan123&repo=buddy&hide_border=true&theme=transparent)](https://github.com/khovan123/buddy)
-[![neuro-nav](https://github-readme-stats.vercel.app/api/pin/?username=khovan123&repo=neuro-nav&hide_border=true&theme=transparent)](https://github.com/khovan123/neuro-nav)
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/khovan123/buddy">buddy</a></h3>
+      <p>Distributed learning platform with AI-powered recommendations, HLS video streaming, RAG study assistant, and 10 microservices.</p>
+      <p><strong>Stack:</strong> TypeScript, Python, JavaScript, React, Docker, MongoDB, Prisma, Azure, CSS, Shell</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/khovan123/neuro-nav">neuro-nav</a></h3>
+      <p>Developer micro-OS for context management, semantic search, and AI-powered browsing for software engineers.</p>
+      <p><strong>Stack:</strong> TypeScript, JavaScript, React, CSS, HTML</p>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
