@@ -31,12 +31,11 @@
 
 <table>
   <tr>
-    <td width="45%" valign="top">
+    <td width="45%" valign="middle" align="center">
       <img
         src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
         alt="Animated header"
-        width="100%"
-        height="100%"
+        width="360"
       />
     </td>
     <td width="55%" valign="top" align="left">
@@ -116,13 +115,11 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/khovan123/alignify-backend">alignify-backend</a></h3>
-      <p>Backend management system connecting social media influencers with advertising brands.</p>
+      <h3><a href="https://github.com/khovan123/contextOS">contextOS</a></h3>
+      <p>Developer CLI for fast context capture, search, and navigation across large codebases.</p>
       <p>
-  <img alt="Java" src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/-E34C26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="Shell" src="https://img.shields.io/badge/-121011?style=flat-square&logo=gnu-bash&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 </p>
     </td>
     <td width="50%">
